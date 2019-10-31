@@ -13,3 +13,6 @@
 
 # IDE specifics
 .vscode
+
+# Binaries
+webapp
