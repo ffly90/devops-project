@@ -3,4 +3,4 @@ build:
     - go
 
 run:
-  web: webapp
+  web: devops-project
