@@ -11,7 +11,7 @@ deploy:
   provider: heroku
   api_key:
     secure: KEY
-  app: webapp-devops
+  app: webapp
   on:
     repo: firefly-serenity/devops-project
 env:
